@@ -1,27 +1,53 @@
-# Minimal Mistakes remote theme starter
+# Data Science Portfolio
 
-Click [**Use this template**](https://github.com/mmistakes/mm-github-pages-starter/generate) button above for the quickest method of getting started with the [Minimal Mistakes Jekyll theme](https://github.com/mmistakes/minimal-mistakes).
+Welcome to my Data Science Portfolio! This repository contains my data science projects and blog posts, built using Jekyll.
 
-Contains basic configuration to get you a site with:
+## Table of Contents
 
-- Sample posts.
-- Sample top navigation.
-- Sample author sidebar with social links.
-- Sample footer links.
-- Paginated home page.
-- Archive pages for posts grouped by year, category, and tag.
-- Sample about page.
-- Sample 404 page.
-- Site wide search.
+- [Introduction](#introduction)
+- [Setup](#setup)
+- [Usage](#usage)
 
-Replace sample content with your own and [configure as necessary](https://mmistakes.github.io/minimal-mistakes/docs/configuration/).
+## Introduction
 
----
+This portfolio showcases my data science projects and blog posts. It is built using Jekyll, a static site generator, and hosted on GitHub Pages [here](https://meeslindhout.github.io/)
 
-## Troubleshooting
+## Setup
 
-If you have a question about using Jekyll, start a discussion on the [Jekyll Forum](https://talk.jekyllrb.com/) or [StackOverflow](https://stackoverflow.com/questions/tagged/jekyll). Other resources:
+To set up the development environment, follow these steps:
 
-- [Ruby 101](https://jekyllrb.com/docs/ruby-101/)
-- [Setting up a Jekyll site with GitHub Pages](https://jekyllrb.com/docs/github-pages/)
-- [Configuring GitHub Metadata](https://github.com/jekyll/github-metadata/blob/master/docs/configuration.md#configuration) to work properly when developing locally and avoid `No GitHub API authentication could be found. Some fields may be missing or have incorrect data.` warnings.
+1. **Clone the repository**:
+    ```sh
+    git clone https://github.com/meeslindhout/meeslindhout.github.io.git
+    cd meeslindhout.github.io
+    ```
+
+2. **Open the project in VS Code**:
+    ```sh
+    code .
+    ```
+
+3. **Build and run the development container**:
+    - Ensure you have Docker installed and running. You can download Docker from the [official website](https://www.docker.com/products/docker-desktop).
+    - Open the Command Palette (Ctrl+Shift+P) and select `Remote-Containers: Reopen in Container`.
+    - This will build the development container and open the project in a containerized environment. (This may take a few minutes the first time you run it as it needs to download the necessary container image and dependencies.)
+
+4. **Install dependencies**:
+    The `postCreateCommand` in the `.devcontainer/devcontainer.json` will automatically run `bundle install` to install the necessary gems that are used for the website.
+
+## Usage
+
+To serve the site locally and preview your changes:
+
+1. **Run Jekyll**:
+    ```sh
+    bundle exec jekyll serve
+    ```
+
+2. **Open the site**:
+    - The site will be available at `http://localhost:4000`.
+    - The port 4000 is forwarded and will open the generated website in the preview window in VS Code for convenience.
+
+## Acknowledgements
+- Theme is based on [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/)
+- Custom css has been sourced from [Chris Tan](https://github.com/chriskhanhtran)

@@ -1,0 +1,25 @@
+{
+    "name": "Jekyll ", // Name of the container
+    "image": "mcr.microsoft.com/devcontainers/jekyll:3.3-bullseye", // Jekyll container with ruby and nodejs
+    "workspaceFolder": "/workspaces/meeslindhout.github.io/", // Path to the workspace. Change to your own path
+    "postCreateCommand": "bundle install",
+    "customizations": {
+        "vscode": {
+            "settings": {
+                "terminal.integrated.shell.linux": "/bin/bash"
+            },
+            "extensions": [
+                "shopify.ruby-lsp", // required for ruby development as jekyll is built on ruby
+                "gruntfuggly.todo-tree", // Nice for task management 
+                "zaaack.markdown-editor" // Nice for quickly creating tables
+            ]
+        }
+    },
+    // open port 4000 to host for preview of website builds
+    "portsAttributes": {
+        "4000": {
+            "label": "Jekyll Preview",
+            "onAutoForward": "openPreview"
+        }
+    }
+}
