@@ -1,7 +1,6 @@
 ---
 layout: single
-permalink: /Resources/
-title: "Resources"   
+permalink: /resources/
 toc: true
 toc_label: "On this page"
 ---
