@@ -56,6 +56,7 @@ plugins:
   - jemoji
   - jekyll-include-cache
   - jekyll-algolia
+  - jekyll-target-blank # automatically open links in new tab
 
 author:
   name: "Mees Lindhout"

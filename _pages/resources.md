@@ -1,6 +1,7 @@
 ---
 layout: single
 permalink: /resources/
+title: Resources
 toc: true
 toc_label: "On this page"
 ---
@@ -26,7 +27,7 @@ toc_label: "On this page"
 - Stanford CS231n Convolutional Neural Networks for Visual Recognition by Fei-Fei Li [YouTube playlist](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
 
 
-## Online tools that I use
+## Online tools that I frequently use
 - [Excalidraw](https://excalidraw.com) is a whiteboard tool that lets you sketch diagrams and illustrations. It's great for brainstorming, wireframing, and explaining abstract / complex ideas.
 
 - [Html Edit](https://htmledit.squarefree.com) is an online HTML editor that lets you write and test HTML, CSS, and JavaScript code. It's great for creating and testing web pages.)
