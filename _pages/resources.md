@@ -12,6 +12,8 @@ toc_label: "On this page"
 
 - Chris McCormick's [blog](https://mccormickml.com) (Chris McCormick is a machine learning researcher and content creator. He has a blog where he shares tutorials on machine learning, deep learning, and natural language processing. His tutorials are beginner-friendly and easy to follow.)
 
+- Alex Fridman [website](https://lexfridman.com/) [courses](https://www.reddit.com/r/lexfridman/comments/1befn0u/20_hours_of_free_lectures_from_lex_fridman_mit_on/) (Alex Fridman is a researcher at MIT and the host of the Lex Fridman Podcast. He has a website where he shares his research and interviews with experts in various fields. I discoverd him during my research in Reinforcement Learning.)
+
 - Adam Savage's [YouTube channel](https://www.youtube.com/user/testedcom) (Adam Savage, one of the presenters of MythBusters, shares his experiences on his YouTube channel. His content ranges from engineering to career advice and much more.)
 
 - Josh Starmer [YouTube channel](https://www.youtube.com/channel/UCtYLUTtgS3k1Fg4y5tAhLbw) (Josh Starmer is a biostatistician and content creator. He has a YouTube channel where he explains statistical concepts in an easy-to-understand way. His videos are engaging and informative.)

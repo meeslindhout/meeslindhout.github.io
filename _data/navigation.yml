@@ -3,9 +3,11 @@ main:
     url: /posts/
   # - title: "Categories"
   #   url: /categories/
-  - title: "Skills"
-    url: /tags/
+  # - title: "Skills"
+  #   url: /tags/
   - title: "Resources"
     url: /resources/
-  - title: "About"
-    url: /about/
+  - title: "CV"
+    url: /cv/
+  # - title: "About"
+  #   url: /about/
