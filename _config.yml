@@ -16,9 +16,9 @@
 title: Blog of Mees Lindhout
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  This is Mees Lindhout's website. Check it out! 
+  Here you can find blog posts about Data Science, 
+  Machine Learning, and other IT related topics. 
 github_username: meeslindhout
 minimal_mistakes_skin: default
 search: true
