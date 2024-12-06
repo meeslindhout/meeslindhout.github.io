@@ -92,6 +92,8 @@ defaults:
       comments: false
       share: false
       related: false
+      show_date: false
+      related: true
   # _pages
   - scope:
       path: "_pages"
