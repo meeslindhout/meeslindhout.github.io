@@ -5,12 +5,9 @@ toc: true
 toc_label: "Table of Contents"
 toc_icon: "bookmark"
 ---
-[Download Curiculum Vitae :netherlands:](https://meeslindhout.github.io/assets/CV_NL_Mees_Lindhout.pdf){: .btn .btn--info}
+[:netherlands: Curiculum Vitae ](https://meeslindhout.github.io/assets/CV_NL_Mees_Lindhout.pdf){: .btn .btn--info}
 
-*Updated on: 02/12/2024*
-
-## 📧 Contact
-[LinkedIn](https://www.linkedin.com/in/meeslindhout/)
+*Updated on: 4th of february 2025*
 
 <!-- TODO: CV in Markdown maken -->
 <!-- ## 💼 Experience
