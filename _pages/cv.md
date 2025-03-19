@@ -7,96 +7,106 @@ toc_icon: "bookmark"
 ---
 [:netherlands: Curiculum Vitae ](https://meeslindhout.github.io/assets/CV_NL_Mees_Lindhout.pdf){: .btn .btn--info}
 
-*Updated on: 4th of february 2025*
+*Updated on: 19th of March 2025*
 
-<!-- TODO: CV in Markdown maken -->
-<!-- ## 💼 Experience
-### Etsy, Inc.
-***Computer Vision Intern***
+<style>
+/* Custom styles for the TOC on this page */
+.sidebar__right {
+  margin-bottom: 1em;
+  position: sticky; /* Make TOC scroll with the page */
+  float: right; /* Align TOC to the right */
+  top: 0;
+  right: 0;
+  width: 350px; /* Adjusted width to make it larger */
+  margin-right: -350px; /* Match the negative margin to the new width */
+  padding-left: 1em;
+  padding-top: 1em;
+  z-index: 10;
+}
+</style>
 
-*July 2020 - Present, Brooklyn, NY*
+## :briefcase: Experience
+### Freelancer | Mees IT Support
+*January 2021 – Present, Amersfoort, Netherlands*
 
--	Applied cutting-edge Computer Vision research to improve personalization and image-based recommendations.
--	Developed and trained Deep Siamese model to extract aesthetic features from listing pictures to recommend style-matching items.
--	Trained object detection and image segmentation models on Etsy’s datasets with Detectron2.
+- Implemented a strategy using the Business Model Canvas.
+- Developed a personal website using WordPress: [www.meesit.support](http://www.meesit.support).
+- Created a data-driven marketing plan based on public data that resulted in the desired customer profile.
+- Conducted a cost-benefit analysis to determine the financial advantage of the Small Business Scheme.
+- Developed a Python script to optimize mileage administration, reducing processing time from a day's work to a single click.
 
-### Skim AI Technologies, Inc.
-***Machine Learning Researcher (NLP)***
+### Computer Student | Uw Computerstudent
+*October 2018 – Present, Amersfoort, Netherlands*
 
-*October 2019 – Present, New York, NY*
+- Advised over 300 clients in nearly 700 appointments, achieving an average customer rating of 9.1 through proactive communication, solution-oriented approaches, and clear explanations.
 
-- Trained and deployed MobileBERT for document summarization on mobile devices, achiving 5.5x faster speed while attaining 95% of BERT-large's performance.
--	Trained deep learning models (Transformers, CNN, RNN-LSTM) for document classification and named entity recognition tasks to extract information from legal documents, achieving 0.95 F1 score and saving client hundred hours of manual labeling.
--	Pretrained Spanish BERT and ELECTRA models from scratch on 18 GB of Open Super-large Crawled Corpus (OSCAR) using multiple GPUs on AWS EC2 instances, achieving state-of-the-art results on Spanish benchmarks.
-- Vectorized documents with pretrained word vectors such as Word2vec, fastText and ELMo to feed classification algorithms.
--	Researched latest NLP and CV papers on regular basis, reported findings to CTO and wrote codes to reproduce research results.
+### Student Consultant Project | Faircom
+*October 2024 – December 2024, Amsterdam, Netherlands*
 
-### Aurubis Buffalo, Inc.
-***Data Scientist (Capstone Project)***
+- Co-authored a consultancy report with three fellow students, proposing a new digital strategy, implementation plan, and change management approach during my Masters programme.
 
-*February 2020 – May 2020, Rochester, NY*
+### Parttime Project Support | Point FWD
+*April 2023 – Februari 2025, Aalsmeer, Netherlands*
 
-- Developed data preprocessing and regression pipeline to predict yield percentage from production of coils into finished products. The developed LightGBM regressor achieved highly accurate predictions with 4% MAE, improving scheduling efficiency and significantly lowering production and inventory cost.
-- Performed data labeling, data exploration, data cleaning, feature engineering on coil history, and hyperparameter tuning with cross validation to optimize accuracy of regressor.
-- Built web app to deploy developed pipeline that can quickly generate yield predictions for future production.
+- Reduced personnel costs by 15% by implementing a script to automate mouse movements, which also improved employee satisfaction.
+- Supervised two shifts weekly with four new clients, focusing on maintaining high data quality and achieving daily targets in a confidential data collection process.
+- Used Lean Six Sigma principles to propose improvements, resulting in a more efficient workflow and improved customer satisfaction.
 
-### Tax Technologies, Inc.
-***Tax Intern***
 
-*March 2019 – July 2019, Buffalo, NY*
 
-Provided technical supports to Fortune 500 clients utilizing Tax Series – TTI’s flagship product, an all-inclusive SaaS global data collection, tax compliance and provision software.
+### Intern Business Analyst | Air Traffic Control the Netherlands
+*February 2022 – September 2022, Schiphol Airport, Netherlands*
 
-- Assisted on implementation engagements for new clients, including performing data collection, integration and setup in Tax Series.
-- Conducted essential application diagnostics on client financial data, including periodically generating technical reports, maintaining data integrity and monitoring client databases.
-- Conducted in-depth research on tax forms and e-file requirements in 32 states and four foreign countries, helping develop annual enhancement release for Tax Series.
-- Performed application testing to determine if software worked as designed, logged technical reports and collaborated with software engineers to build enhancement update for Tax Series.
-- Proposed new changes in priority system and data visualization that improved overall efficiency of ticket support reporting.
+- Thesis: Investigated the functional requirements of LVNL's Data Warehouse by conducting 23 semi-structured interviews with 10 different departments. Engaged with end-users (analysts, air traffic controllers, instructors) and technicians (data engineers, software developers, system architects). The research revealed more crucial end-users than initially thought and recommended further research into external users.
+- Grade: 8.0
 
-### Niagara University - Academic Success Center
-***Statistics Tutor***
+### Intern Data Analyst | Bonded Services
+*September 2020 – January 2021, Schiphol Airport, Netherlands*
 
-*August 2018 - December 2018, Lewiston, NY*
+- Bonded Services was a logistics last-mile distribution center with customs facilities processing 120,000 kg of e-commerce packages daily. My research contributed to reducing lost packages. Analyzed a large volume of emails with Python, created flowcharts of operations, and analyzed the SQL database.
+- Grade: 8.0
 
-- Tutored nine students in statistics, business analytics and accounting courses.
-- Helped students understand class materials, complete homework and build effective study strategies.
-- Rated Excellent in all criteria by eight out of nine students.
+### Student Data Consultant | SWARCO (formerly Dyniq)
+*December 2019 – January 2020, Wormverveer, Netherlands*
 
-### Business Analytics Competition & Conference 2018 @ Manhattan College
-***Data Analytics Team Leader***
+- Developed multiple predictive models with a team of four students to forecast runway lighting failures at Schiphol using public weather data. Version control was managed in Git, and models were programmed in R.
 
-*February 2018 - May 2018, New York, NY*
 
-In three-month research and two-day hackathon, led a team of four students to discover insights from NYC and Boston government data sets and won runner-up prize for best research poster out of 18 participating colleges.
+## :mortar_board: Education
 
-*Read more: [News](https://news.niagara.edu/news/show/niagara-university-team-competes-at-data-analytics-competition-in-nyc), [Research Poster](https://chriskhanhtran.github.io/minimal-portfolio/pdf/bac2018.pdf)*
+### *MSc.* Digital Driven Business | Amsterdam University of Applied Sciences
+**2023 – 2024**
 
-- Cleaned up (missing data, outlier detection, duplications) and integrated (merge, join, subset) large data sets (6 million records) of governmental spending, contracts and KPI metrics.
-- Utilized Python and Tableau to perform exploratory data analysis and visualization on payroll distribution and minority-owned businesses’ participation in government contracts.
-- Built and ran linear models on SPSS to determine socioeconomic factors affecting government spending.
-- Applied statistical techniques to predict government KPI metrics, crime rate and education quality.
-- Presented research findings before data scientists and Wall Street veterans.
+- Relevant Courses: Leadership Development, Business Ethics, Business Statistics, Data Presentation and Visualization, Database Management, Online Data Mining, AI Methods for Business, Digital Business Management, Emerging Technology in Digital Business.
+- Group Projects: Set up PostgreSQL database, web scraping, machine learning models with Explainable AI, research on the new AI act, Tableau dashboard.
+- Thesis: Offline Deep Reinforcement Learning in Session Based Recommender Systems.
+- Grade: 7.6
 
-## 🎓 Education
-### University of Rochester
-**Master of Science in Business Analytics (STEM), 2020**
-- GPA: 3.96/4.00
-- Coursework: Core Statistics, R Programming, Predictive Analytics with Python (Machine Learning), Causal Analytics with R (A/B Testing), Social Media Analytics (NLP), Database Management (SQL, Cypher), Big Data (Hive, Spark), Pricing Analytics
+### *BSc.* Aviation Operations | Amsterdam University of Applied Sciences
+**2017 – 2022**
 
-### Niagara University
-**Bachelor of Business Administration in Accounting, 2019**
-- GPA: 3.99/4.00, *summa cum laude*
-- Dean's List (all attended semesters); Top 5 student in the Accounting department
-- Coursework: Business Analytics, Linear Models, Management Information Systems, Econometrics
+- Relevant Courses: Supply Chain Planning, Aviation Law, Operations Management.
+- Organized a guest lecture for 260 students and teachers by leveraging networking skills, inviting Diederik Pen, then COO of WizzAir, as a speaker.
+- Worked on project-based group assignments for 2.5 years, presenting and defending results.
+- Minor: Data Science (Courses: Data Mining, Societal Impact of Big Data, Predictive Maintenance, Software Engineering in Data Science, Visual Analytics). Grade: 8.2
+- Grade: 7.5
 
-## 📝 Projects and Articles
-I frequently publish articles to discuss recent research in Natural Language Processing and open-source projects applying state-of-the-art AI technologies. Please visit my [blog](https://chriskhanhtran.github.io/posts/) and [portfolio](https://chriskhanhtran.github.io/portfolio/) for more details.
+## :compass: Volunteering
+### General Board Member | Amsterdam Aviation Alumni Association
+*October 2024 – Present, Amsterdam, Netherlands*
 
-## 🤖 Skills
-- **Programming:** Python (NumPy, Pandas, Scikit-learn, PyTorch, TensorFlow), Big Data (Spark, Hive), R, SQL, Cypher, MATLAB
-- **NLP:** Named Entity Recognition, Sentiment Analysis, Machine Translation, Summarization
-- **Others:** 
-  - Cloud Computing: AWS EC2, GCP
-  - Visualization: Tableau, Matplotlib, Seaborn
-  - Statistical Tools: SAS, SPSS, Excel
-  - Design and Video Editing: Adobe Photoshop, Lightroom, Premiere -->
+- Serving as a general board member, contributing to the strategic direction and operations of the association.
+
+### Lustrum Committee Member & volunteer during introduction camps | Amsterdam Aviation Association (SVAAA)
+*September 2022 – August 2023, Amsterdam, Netherlands*
+
+- As a member of the lustrum committee, organized five events during the lustrum week with nine other students, including a lunch with Marcel de Nooijer (CEO of Transavia) and a final party for 300 guests (budget of €16.7k).
+- As a volunteer during introduction camps, responsible for the tournament administration system that I built in MS Power Automate to reduce administrative workload for volunteers and increase user experience for first year students.
+
+
+### Curriculum Committee Member | Aviation Academy, Amsterdam University of Applied Sciences
+*July 2020 – April 2022, Amsterdam, Netherlands*
+
+- Represented the student voice as a student member during weekly meetings.
+- Advised on the design of the new curriculum for the Aviation Academy.
+- Served as a panel member in the development of the new learning objective registration system.
