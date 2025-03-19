@@ -11,17 +11,31 @@ toc_icon: "bookmark"
 
 <style>
 /* Custom styles for the TOC on this page */
-.sidebar__right {
-  margin-bottom: 1em;
-  position: sticky; /* Make TOC scroll with the page */
-  float: right; /* Align TOC to the right */
-  top: 0;
-  right: 0;
-  width: 350px; /* Adjusted width to make it larger */
-  margin-right: -350px; /* Match the negative margin to the new width */
-  padding-left: 1em;
-  padding-top: 1em;
-  z-index: 10;
+@media (min-width: 768px) { /* Apply styles only for screens wider than 768px */
+  .sidebar__right {
+    margin-bottom: 1em;
+    position: sticky; /* Make TOC scroll with the page */
+    float: right; /* Align TOC to the right */
+    top: 0;
+    right: 0;
+    width: 350px; /* Adjusted width to make it larger */
+    margin-right: -350px; /* Match the negative margin to the new width */
+    padding-left: 1em;
+    padding-top: 1em;
+    z-index: 10;
+  }
+}
+
+/* Optional: Reset TOC styles for smaller screens */
+@media (max-width: 767px) { /* Apply styles only for screens smaller than 768px */
+  .sidebar__right {
+    position: static; /* Reset to default behavior */
+    float: none;
+    width: auto;
+    margin-right: 0;
+    padding-left: 0;
+    padding-top: 0;
+  }
 }
 </style>
 
