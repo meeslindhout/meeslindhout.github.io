@@ -32,6 +32,12 @@ paginate: 5 # amount of posts to show
 paginate_path: /page:num/
 timezone: Europe/Amsterdam # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "G-K8T31P757E"
+    anonymize_ip: true # to be GDPR compliant
+
 include:
   - _pages
 
