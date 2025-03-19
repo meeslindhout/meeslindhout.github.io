@@ -9,5 +9,5 @@ main:
     url: /resources/
   - title: "CV"
     url: /cv/
-  # - title: "About"
-  #   url: /about/
+  - title: "About"
+    url: /about/
