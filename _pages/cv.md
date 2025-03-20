@@ -1,13 +1,13 @@
 ---
-title: "Curriculum Vitae"
+title: "CV"
 permalink: /cv/
 toc: true
-toc_label: "Table of Contents"
+toc_label: ""
 toc_icon: "bookmark"
 ---
-[:netherlands: Curiculum Vitae ](https://meeslindhout.github.io/assets/CV_NL_Mees_Lindhout.pdf){: .btn .btn--info}
 
-*Updated on: 19th of March 2025*
+
+Below you can find my CV in English with a focus on my professional experience, education, and volunteering activities of the past 5 years. *Do you prefer a Dutch version of my CV? Click <a href="https://meeslindhout.github.io/assets/CV_NL_Mees_Lindhout.pdf" onclick="gtag('event', 'click', { 'event_category': 'CV', 'event_label': 'Dutch CV Download' });">here</a> to download it as a pdf.*
 
 <style>
 /* Custom styles for the TOC on this page */
@@ -39,7 +39,7 @@ toc_icon: "bookmark"
 }
 </style>
 
-## :briefcase: Experience
+## Experience :briefcase: 
 ### Freelancer | Mees IT Support
 *January 2021 – Present, Amersfoort, Netherlands*
 
@@ -86,10 +86,10 @@ toc_icon: "bookmark"
 - Developed multiple predictive models with a team of four students to forecast runway lighting failures at Schiphol using public weather data. Version control was managed in Git, and models were programmed in R.
 
 
-## :mortar_board: Education
+## Education :mortar_board:
 
 ### *MSc.* Digital Driven Business | Amsterdam University of Applied Sciences
-**2023 – 2024**
+*2023 – 2024*
 
 - Relevant Courses: Leadership Development, Business Ethics, Business Statistics, Data Presentation and Visualization, Database Management, Online Data Mining, AI Methods for Business, Digital Business Management, Emerging Technology in Digital Business.
 - Group Projects: Set up PostgreSQL database, web scraping, machine learning models with Explainable AI, research on the new AI act, Tableau dashboard.
@@ -97,7 +97,7 @@ toc_icon: "bookmark"
 - Grade: 7.6
 
 ### *BSc.* Aviation Operations | Amsterdam University of Applied Sciences
-**2017 – 2022**
+*2017 – 2022*
 
 - Relevant Courses: Supply Chain Planning, Aviation Law, Operations Management.
 - Organized a guest lecture for 260 students and teachers by leveraging networking skills, inviting Diederik Pen, then COO of WizzAir, as a speaker.
@@ -105,7 +105,7 @@ toc_icon: "bookmark"
 - Minor: Data Science (Courses: Data Mining, Societal Impact of Big Data, Predictive Maintenance, Software Engineering in Data Science, Visual Analytics). Grade: 8.2
 - Grade: 7.5
 
-## :compass: Volunteering
+## Volunteering :compass:
 ### General Board Member | Amsterdam Aviation Alumni Association
 *October 2024 – Present, Amsterdam, Netherlands*
 
@@ -124,3 +124,6 @@ toc_icon: "bookmark"
 - Represented the student voice as a student member during weekly meetings.
 - Advised on the design of the new curriculum for the Aviation Academy.
 - Served as a panel member in the development of the new learning objective registration system.
+  
+  
+*Last Updated: March 20, 2025* 
