@@ -3,7 +3,7 @@ permalink: /about/
 title: ""
 ---
 ## About Me
-Hi, I'm **Mees Lindhout**, 24 years old, and I have a background in Aviation Operations (*BSc*) and Digital Driven Business (*MSc*). I live in the center of the Netherlands and I'm passionate about new technology and aviation. I enjoy being outside in nature and I love to travel and explore new places. Want to connect? Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/meeslindhout/). I'm always looking for new opportunities to learn and grow :wink:. 
+Hi, I'm **Mees Lindhout**, 25 years old, and I have a background in Aviation Operations (*BSc*) and Digital Driven Business (*MSc*). I live in the center of the Netherlands and I'm passionate about new technology. I enjoy being outside in nature and I love to travel and explore new places. Want to connect? Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/meeslindhout/).  
 
 ## Hobbies
 In my free time, I enjoy a variety of hobbies. Here are a few of my favorites:  

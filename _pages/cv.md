@@ -40,6 +40,9 @@ Below you can find my CV in English with a focus on my professional experience, 
 </style>
 
 ## Experience :briefcase: 
+### Digital Engineer | Capgemini Engineering
+*May 2025 - Present, Utrecht, Netherlands*
+
 ### Freelancer | Mees IT Support
 *January 2021 – Present, Amersfoort, Netherlands*
 
@@ -126,4 +129,4 @@ Below you can find my CV in English with a focus on my professional experience, 
 - Served as a panel member in the development of the new learning objective registration system.
   
   
-*Last Updated: March 20, 2025* 
+*Last Updated: June 6, 2025* 
